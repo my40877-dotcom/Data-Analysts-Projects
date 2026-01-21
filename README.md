@@ -1,5 +1,7 @@
 🚀 QuickBite Express: Crisis Recovery Dashboard
+
 New Data Analyst Project | Food-Tech Startup Recovery Strategy
+
 📌 Project Overview
 This project focuses on QuickBite Express, a Bengaluru-based food-tech startup that faced a major crisis in June 2025 due to food safety violations and delivery outages. As a Data Analyst, I developed a dynamic dashboard to analyze order patterns, financial impact, and customer sentiment to guide their recovery strategy.
 
